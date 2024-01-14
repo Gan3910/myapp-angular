@@ -1,0 +1,19 @@
+{
+    "welcome": "Welcome",
+    "start": "Enter your name",
+    "previous": "Previous",
+    "next": "Next",
+    "send": "Send",
+    "q1": "I found it hard to wind down",
+    "q2": "I was aware of dryness of my mouth",
+    "q3": "I couldn't seem to experience any positive feeling at all",
+    "q4": "I experienced breathing difficulty (e.g. excessively rapid breathing, breathlessness in the absence of physical exertion)",
+    "q5": "I found it difficult to work up the initiative to do things",
+    "q6": "I tended to over-react to situations",
+    "a1": "Did not apply to me at all",
+    "a2": "Applied to me to some degree, or some of the time",
+    "a3": "Applied to me to a considerable degree or a good part of time",
+    "a4": "Applied to me very much or most of the time",
+    "err1": "Please enter your name",
+    "err2": "Answer the questions to continue"
+}

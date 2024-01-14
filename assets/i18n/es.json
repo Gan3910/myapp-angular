@@ -1,0 +1,19 @@
+{
+    "welcome": "Bienvenido",
+    "start": "Ingresa tu nombre",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "send": "Enviar",
+    "q1": "Me ha costado mucho descargar la tensión",
+    "q2": "Me di cuenta que tenía la boca seca",
+    "q3": "No podía sentir ningún sentimiento positivo",
+    "q4": "Se me hizo difícil respirar",
+    "q5": "Se me hizo difícil tomar la iniciativa para hacer cosas",
+    "q6": "Reaccioné exageradamente en ciertas situaciones",
+    "a1": "No se aplica a mí en absoluto",
+    "a2": "Aplicado a mí hasta cierto punto, o algunas veces",
+    "a3": "Aplicado a mí en un grado considerable o una buena parte del tiempo",
+    "a4": "Se me aplica mucho o la mayor parte del tiempo",
+    "err1": "Por favor ingrese su nombre",
+    "err2": "Responda las preguntas para continuar"
+}
